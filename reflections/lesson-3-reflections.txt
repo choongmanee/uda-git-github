@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+whenever you need to share or access code apart from your local machine. also, to store an extra copy of the code somewhere that is safe
