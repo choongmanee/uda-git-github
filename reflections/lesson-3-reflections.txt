@@ -5,3 +5,11 @@ whenever you need to share or access code apart from your local machine. also, t
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 it allows the developer to pull changes whenever he/she is ready to pull changes from a remote. otherwise, pulled changes may interfere with code in progress. also the developer is able to be aware of what changes were pulled
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks are clones within github that allows developers to work on a copy of someone else's repository
+
+clones are copies of another repository and can exist within local git repositories and from github
+
+branches are copies of another code base that allows for work to be done outside of the master branch
