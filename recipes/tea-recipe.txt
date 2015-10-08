@@ -1,0 +1,9 @@
+Ingredients:
+ - 1 tea bag
+ - 1 cup of water
+
+
+Directions:
+  1. Heat water until it boils
+  2. Place hot water and tea bag into a cup
+  3. Remove the tea bag after 15 minutes
