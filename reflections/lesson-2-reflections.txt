@@ -1,0 +1,25 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+initializing a repository allows a directory to be git trackable. it's necessary to git initialize in order to start tracking changes to a project
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area is the middle phase that allows users to select what is commitable to the working directory and repository. it allows project changes to be broken into distinguishable and distinct. it also gives users a chance to make any changes before actually commiting
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+collaborating with other developers, compartmentalizing new features or version from stable code
+
+How do the diagrams help you visualize the branch structure?
+
+it gives a graphical interpretation of what the branch structure looks like holistically
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros of automatic:
+time efficient
+easier to keep track of changes
+
+cons of automatic:
+changes are assumed
+not all merge conflicts are useful to developers
