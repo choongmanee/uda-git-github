@@ -13,3 +13,7 @@ forks are clones within github that allows developers to work on a copy of someo
 clones are copies of another repository and can exist within local git repositories and from github
 
 branches are copies of another code base that allows for work to be done outside of the master branch
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+the benefit of having a copy locally is that local copies are independent from what other users to the remote repository do to the repository
