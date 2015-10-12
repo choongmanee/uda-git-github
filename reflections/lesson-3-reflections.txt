@@ -17,3 +17,7 @@ branches are copies of another code base that allows for work to be done outside
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 the benefit of having a copy locally is that local copies are independent from what other users to the remote repository do to the repository
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+i would have to excessively comment my code if i wanted to collaborate without version control. also, i would need to create multiple directories as snapshots of my project. reverting simple versions back would be easier but almost everything such as merging and pushing code would be harder.
