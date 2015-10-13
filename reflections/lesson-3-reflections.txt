@@ -21,3 +21,7 @@ the benefit of having a copy locally is that local copies are independent from w
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 i would have to excessively comment my code if i wanted to collaborate without version control. also, i would need to create multiple directories as snapshots of my project. reverting simple versions back would be easier but almost everything such as merging and pushing code would be harder.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+a separate branch should be used whenever someone is building a new feature, a new version, or fixing a bug. working outside of master preserves what is supposed to be the main code base apart from a change from the master code base
